@@ -2,7 +2,7 @@ Type: Package
 Package: MonotoneHazardRatio
 Title: Nonparametric Estimation and Inference of a Monotone Hazard
         Ratio Function
-Version: 0.1.0
+Version: 0.1.1
 Author: Yujian Wu
 Maintainer: Yujian Wu <yujianwu@umass.edu>
 Description: A tool for nonparametric estimation and inference of a non-decreasing monotone hazard
@@ -19,7 +19,9 @@ Depends: R (>= 2.10)
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 RoxygenNote: 7.1.1
+URL: https://github.com/Yujian-Wu/MonotoneHazardRatio
+BugReports: https://github.com/Yujian-Wu/MonotoneHazardRatio/issues
 NeedsCompilation: no
-Packaged: 2023-11-10 14:43:48 UTC; Daniel
+Packaged: 2023-11-13 04:03:46 UTC; Daniel
 Repository: CRAN
-Date/Publication: 2023-11-10 19:53:25 UTC
+Date/Publication: 2023-11-17 10:20:31 UTC
